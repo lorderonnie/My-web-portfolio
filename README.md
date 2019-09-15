@@ -1,5 +1,5 @@
 # {My-web-portfolio}
-#### It is a compilation of information about me (Ronald), 15th september 2019
+#### It is a brief set of information about me (Ronald), 15th september 2019
 #### By **RONALD MWAMBIA**
 ## Description
   This is a beginner portfolio that details information about me.It also contains details on a couple of projects issued in Moringa.
