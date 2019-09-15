@@ -61,5 +61,11 @@ nav>li>a {
 }
 .front {
         width: 400px
-        float: center;       
+        float; center:       
 }
+@media screen and (min-width: 480px ) {
+   body {
+        background-color: black;
+        color: white;
+   }
+
