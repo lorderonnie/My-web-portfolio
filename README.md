@@ -10,7 +10,7 @@
 * cd my-web-portfolio
 * code . or atom . (use the one you prefer.)
 ## Known Bugs
-  The only bug found in my portfolio is one website is unseen reason to be confirmed soon(My pet)
+  So far no bugs detected.
 ## Technologies Used
 * HTML: I was able to thrwo in a couple of cool pictures and edits in the portfolio.
 * css: I styled it in way every part was catered for and added a background image to make it better.
