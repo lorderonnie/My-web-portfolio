@@ -1,0 +1,51 @@
+body {
+     background-color: black;
+     font-family: sans-serif;
+     text-align: center;
+     scroll-behavior: smooth;
+}
+img {
+     width: 300px;
+}
+.left {
+       float: right; 
+}
+.right {
+        float: left;
+}
+h1 {
+     color: white;
+     text-align: center;
+}
+h2 {
+     color: white;
+     text-align: center;
+}
+nav>ul>li {
+      text-align: center;
+      color: white;
+      /* display: inline-block; */
+      margin-bottom: 30px;
+      list-style: none;
+}
+nav>ul>li>a {
+    text-decoration: none;
+    color: red;
+}
+p {
+    color: white;
+} 
+
+nav {
+     margin-bottom: 230px;
+}
+li {
+     color: white;
+}
+ol {
+    color: white;
+}
+nav>li>a {
+        text-decoration: none;
+        color: red;
+}
