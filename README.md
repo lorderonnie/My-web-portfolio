@@ -18,4 +18,4 @@
   If there is an issue contact me on the details found on the portfolio or reach my email: {rontheking45@gmail.com}
 ### License
 * MIT Licence *
-Copyright (c) {2019} **{Moringa school for the teachings and I myself for the making the portfolio.}**
+Copyright (c) {2019} **{Moringa school for the basic knowledge on how to code and I myself for the making the portfolio.}**
