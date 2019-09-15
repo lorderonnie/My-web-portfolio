@@ -13,7 +13,7 @@
   So far no bugs detected.
 ## Technologies Used
 * HTML: I was able to throw in a couple of cool pictures and edits in the portfolio.
-* css: I styled it in way every part was catered for and added a background image to make it better.
+* CSS: I styled it in way every part was catered for and added a background image to make it better.
 ## Support and contact details
   If there is an issue contact me on the details found on the portfolio or reach my email: {rontheking45@gmail.com}
 ### License
